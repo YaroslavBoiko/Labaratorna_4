@@ -3,4 +3,4 @@
 
 4.В class Agent добавив метод count_properties(функція яка дає інформацію про кількість properties) та relation(функція яка показує відношення  між house and apartment)
 
-5.Так можна уникнути множинного успадкування.Змінив успадкування на композицію в класах: classes ApartmentPurchase and  HousePurchase
+5.Так можна уникнути множинне успадкування.Змінив успадкування на композицію в класах: classes ApartmentPurchase and  HousePurchase
